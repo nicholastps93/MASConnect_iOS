@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>hhttps://drive.google.com/file/d/16RSLBOUCsGvZeN24tbKgveOEY5yxtkXN/view?usp=sharing</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://oneconnect.isscmg.com/downloads/ios_prod/MASConnect57x57.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://oneconnect.isscmg.com/downloads/ios_prod/MASConnect512x512.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.isscmg.masconnect</string>
+				<key>bundle-version</key>
+				<string>2.0.23</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>platform-identifier</key>
+				<string>com.apple.platform.iphoneos</string>
+				<key>title</key>
+				<string>MASConnect</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
